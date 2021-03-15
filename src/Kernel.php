@@ -13,7 +13,7 @@ class Kernel extends BaseKernel
 
     protected function configureContainer(ContainerConfigurator $container): void
     {
-        echo $container->getParameter('kernel.project_dir'); exit;
+        
         $container->import('../config/{packages}/*.yaml');
         $container->import('../config/{packages}/'.$this->environment.'/*.yaml');
 
