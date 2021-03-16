@@ -1,4 +1,5 @@
 {
+    "name": "zeppaman/api-farm-skeleton",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
