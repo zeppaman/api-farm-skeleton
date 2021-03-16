@@ -1,7 +1,8 @@
 {
     "name": "zeppaman/api-farm-skeleton",
     "type": "project",
-    "license": "proprietary",
+    "description": "ApiFarm startup project. Create a procject with zeppaman/api-farm installed",  
+    "license": "GPL-3.0-or-later",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
