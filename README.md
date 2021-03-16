@@ -1,6 +1,6 @@
 # Api Farm Skeleton
 
-This is the skeleton project for api farm
+This is the skeleton project for api farm. [Go to the main project page for more info](https://github.com/zeppaman/api-farm)
 
 # Setup
 
