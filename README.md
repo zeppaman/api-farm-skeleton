@@ -6,7 +6,7 @@ This is the skeleton project for api farm. [Go to the main project page for more
 
 ```
 # create a project
-COMPOSER_MEMORY_LIMIT=-1 composer create-project zeppaman/api-farm my-project
+COMPOSER_MEMORY_LIMIT=-1 composer create-project zeppaman/api-farm-skeleton my-project
 
 cd my-project
 
